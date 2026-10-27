@@ -1,0 +1,24 @@
+# 秘密（絶対にコミットしない）
+.env
+.env.*
+secrets.*
+*.pem
+*.key
+
+# OSが作るファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大きいファイル
+*.zip
+*.mp4
+*.mov
+
+# 秘書の一時物・ローカル設定
+.claude/settings.local.json
+work/*
+!work/README.md
+
+# テンプレートを作る人のメモ（使う人には要らない）
+HANDOFF.md
