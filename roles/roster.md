@@ -7,5 +7,6 @@
 | 係名 | 立場（agents/） | 使う部門 | 役割カード |
 |---|---|---|---|
 | 点検係 | critic | 全部門 | roles/点検係.md |
+| 待ち点検係 | researcher | 全部門 | roles/待ち点検係.md |
 
 立場は5つ：researcher（調べ役）・generator（量産役）・critic（ツッコミ役）・judge（裁判官役）・finisher（仕上げ役）。
